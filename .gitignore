@@ -1,2 +1,17 @@
-secret_api_key.py
+# Python virtual environments
+venv/
+env/
+
+# Python bytecode
 __pycache__/
+*.py[cod]
+
+# Secret files
+secret_api_key.py
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings (e.g., PyCharm)
+.idea/
+
